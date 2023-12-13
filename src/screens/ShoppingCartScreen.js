@@ -19,7 +19,7 @@ const ShoppingCartTotals = () => (
     </View>
 )
 
-const ShoppingCart = () => {
+const ShoppingCartScreen = () => {
 
     const checkout = () => { }
 
@@ -75,4 +75,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default ShoppingCart;
+export default ShoppingCartScreen;
